@@ -1,5 +1,3 @@
-package List_1;
-
 public class Sale_2 {
 
 	public static void main(String[] args) {
